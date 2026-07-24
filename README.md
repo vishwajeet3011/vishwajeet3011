@@ -11,9 +11,12 @@ Python Developer • Machine Learning • Data Analytics
 
 ## 👨‍💻 About Me
 
-I am a Final-Year B.Tech AIML student passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Computer Vision.
-
-I enjoy solving real-world problems using Python and continuously learning new technologies.
+- 🎓 Final-Year B.Tech student specializing in Artificial Intelligence & Machine Learning.
+- 💡 Passionate about building AI-powered applications that solve real-world problems.
+- 🐍 Skilled in Python, Machine Learning, Data Analytics, and Computer Vision.
+- 🌱 Currently exploring Deep Learning, Generative AI, and Flask for AI application deployment.
+- 🤝 Open to collaborating on AI/ML and Data Analytics projects.
+- 🎯 Seeking AI/ML Internship opportunities to apply my skills and continue learning.
 
 ---
 
