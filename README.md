@@ -78,6 +78,15 @@ Secure an AI/ML Internship and become an AI Engineer.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
 ---
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=vishwajeet3011&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=vishwajeet3011&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vishwajeet3011&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishwajeet%20Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwajeet-pawar-aa905a295/)
