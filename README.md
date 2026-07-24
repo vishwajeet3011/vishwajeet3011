@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Vishwajeet+Pawar;Final-Year+AIML+Student;Python+Developer;Machine+Learning+Enthusiast;Computer+Vision+Learner;Open+to+AI%2FML+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Vishwajeet+Pawar;Final-Year+AIML+Student;Python+Developer;Machine+Learning+Enthusiast;Computer+Vision+Learner;Open+to+AI%2FML+Internships" />
 </p>
 <h1 align="center">Hi 👋, I'm Vishwajeet Pawar</h1>
 
@@ -10,13 +10,11 @@ Final-Year B.Tech AIML Student | Python Developer | Machine Learning Enthusiast 
 ## 👨‍💻 About Me
 
 - 🎓 Final-Year B.Tech student specializing in Artificial Intelligence & Machine Learning.
-- 💡 Passionate about building AI-powered applications that solve real-world problems.
-- 🐍 Skilled in Python, Machine Learning, Data Analytics, and Computer Vision.
-- 🌱 Currently exploring Deep Learning, Generative AI, and Flask for AI application deployment.
+- 💼 Passionate about building AI-powered applications that solve real-world problems.
+- 💻 Skilled in Python, Machine Learning, Data Analytics, and Computer Vision.
+- 📚 Currently exploring Deep Learning, Generative AI, and Flask for AI application deployment.
 - 🤝 Open to collaborating on AI/ML and Data Analytics projects.
 - 🎯 Seeking AI/ML Internship opportunities to apply my skills and continue learning.
-
----
 
 ---
 
