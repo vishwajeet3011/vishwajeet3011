@@ -4,10 +4,8 @@
 <h1 align="center">Hi 👋, I'm Vishwajeet Pawar</h1>
 
 <h3 align="center">
-Final-Year B.Tech AIML Student | Python Developer | Machine Learning Enthusiast
+Final-Year B.Tech AIML Student | Python Developer | Machine Learning Enthusiast | Data Analytics
 </h3>
-
-Python Developer • Machine Learning • Data Analytics
 
 ## 👨‍💻 About Me
 
