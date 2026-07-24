@@ -3,3 +3,9 @@
 ### Final-Year B.Tech AIML Student
 
 Python Developer • Machine Learning • Data Analytics
+
+## 👨‍💻 About Me
+
+I am a Final-Year B.Tech AIML student passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Computer Vision.
+
+I enjoy solving real-world problems using Python and continuously learning new technologies.
