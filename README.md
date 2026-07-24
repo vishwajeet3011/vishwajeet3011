@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Vishwajeet+Pawar;Final-Year+AIML+Student;Python+Developer;Machine+Learning+Enthusiast;Computer+Vision+Learner;Open+to+AI%2FML+Internships" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishwajeet3011&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
 <h1 align="center">Hi 👋, I'm Vishwajeet Pawar</h1>
 
 <h3 align="center">
@@ -17,6 +14,10 @@ Python Developer • Machine Learning • Data Analytics
 I am a Final-Year B.Tech AIML student passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Computer Vision.
 
 I enjoy solving real-world problems using Python and continuously learning new technologies.
+
+---
+
+---
 
 ## 🚀 Currently Working On
 
