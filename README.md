@@ -85,9 +85,6 @@ Secure an AI/ML Internship and become an AI Engineer.
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwajeetp3011@gmail.com)
 
+💬 Feel free to reach out for AI/ML collaborations, internship opportunities, or project discussions.
 
-## 📊 GitHub Stats
-...
-
-## 🏆 GitHub Trophies
-...
+📧 Email: **vishwajeetp3011@gmail.com**
