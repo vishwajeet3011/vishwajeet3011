@@ -12,7 +12,7 @@ Final-Year B.Tech AIML Student | Python Developer | Machine Learning Enthusiast 
 - 🎓 Final-Year B.Tech student specializing in Artificial Intelligence & Machine Learning.
 - 💼 Passionate about building AI-powered applications that solve real-world problems.
 - 💻 Skilled in Python, Machine Learning, Data Analytics, and Computer Vision.
-- 📚 Currently exploring Deep Learning, Generative AI, and Flask for AI application deployment.
+- 📚 Currently exploring Deep Learning, Generative AI, and Flask to deploy AI applications.
 - 🤝 Open to collaborating on AI/ML and Data Analytics projects.
 - 🎯 Seeking AI/ML Internship opportunities to apply my skills and continue learning.
 
@@ -23,7 +23,6 @@ Final-Year B.Tech AIML Student | Python Developer | Machine Learning Enthusiast 
 - Machine Learning Projects
 - AI Campus Assistant (RAG + LLMs)
 - Computer Vision Projects using OpenCV
-- Computer Vision
 - Data Analytics
 - Python Development
 - AI Campus Assistant
