@@ -18,7 +18,7 @@ I enjoy solving real-world problems using Python and continuously learning new t
 - Python Development
 - AI Campus Assistant
 
-- ## 🎯 Goal
+## 🎯 Goal
 
 Secure an AI/ML Internship and become an AI Engineer.
 
@@ -78,21 +78,7 @@ Secure an AI/ML Internship and become an AI Engineer.
 
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwajeet3011&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishwajeet3011&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeet3011&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+...
 
 ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishwajeet3011&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+...
