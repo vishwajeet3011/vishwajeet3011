@@ -75,3 +75,24 @@ Secure an AI/ML Internship and become an AI Engineer.
 [![GitHub](https://img.shields.io/badge/GitHub-vishwajeet3011-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishwajeet3011)
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwajeetp3011@gmail.com)
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwajeet3011&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vishwajeet3011&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeet3011&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishwajeet3011&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
