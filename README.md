@@ -21,3 +21,7 @@ I enjoy solving real-world problems using Python and continuously learning new t
 - ## 🎯 Goal
 
 Secure an AI/ML Internship and become an AI Engineer.
+
+## 💻 Tech Stack
+
+## 🌐 Connect With Me
